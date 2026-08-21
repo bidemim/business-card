@@ -1,2 +1,2 @@
-# business-card
+# Business Card
 Design a simple business card
