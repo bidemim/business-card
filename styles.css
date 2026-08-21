@@ -17,3 +17,11 @@ body {
 .profile-image {
     max-width: 100%;
 }
+
+p {
+    margin: 5px 0 5px 0;
+}
+
+a {
+    text-decoration: none;
+}
